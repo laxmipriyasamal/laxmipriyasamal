@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Laxmipriya Samal</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align =”right” alt=”Coding” width=”400” src=https://img.freepik.com/premium-vector/asian-woman-working-laptop-woman-it-developer-programming-code-freelance-remote-working_254685-2375.jpg>
+<img align=”right” alt=”Coding” width=”400” src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://qph.cf2.quoracdn.net/main-qimg-8efc5914796626e14187adbc7fcf6e4e)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmipriyasamal&label=Profile%20views&color=0e75b6&style=flat" alt="laxmipriyasamal" /> </p>
 

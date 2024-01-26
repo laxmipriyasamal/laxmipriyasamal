@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Laxmipriya Samal</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align =”right” alt=”Coding” width=fit-content” src=https://img.freepik.com/premium-vector/asian-woman-working-laptop-woman-it-developer-programming-code-freelance-remote-working_254685-2375.jpg>
+<img align="right" width="400" src="https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmipriyasamal&label=Profile%20views&color=0e75b6&style=flat" alt="laxmipriyasamal" /> </p>
 
@@ -30,10 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laxmipriyasamal&show_icons=true&locale=en" alt="laxmipriyasamal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmipriyasamal&" alt="laxmipriyasamal" /></p>
-
-
-
-
-
-
-
